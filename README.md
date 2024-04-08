@@ -1,8 +1,6 @@
 # QR Code Generator
 
 
-Create a sleek QR code generator utilizing CSS for styling and JavaScript for functionality within an HTML framework. This project enables users to easily generate QR codes for various purposes, blending simplicity with modern design for seamless user experience.
-
 
 
 
